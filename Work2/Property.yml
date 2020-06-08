@@ -1,0 +1,13 @@
+- cat:
+    name: Tom
+    color : black
+    age: 2
+    gendar: female
+    hair : short hair
+
+- dog:
+    name : Puppy
+    color: white
+    age: 4
+    gendar: male
+    hair : long hair
