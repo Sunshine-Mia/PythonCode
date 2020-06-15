@@ -1,0 +1,50 @@
+-
+  a: 1
+  b: 2
+  re_add: 3
+  re_sub: -1
+  re_mul: 2
+  re_div: 0.5
+-
+  a: 199
+  b: 101
+  re_add: 300
+  re_sub: 98
+  re_mul: 20099
+  re_div: 1.97
+-
+  a: -1
+  b: -2
+  re_add: -3
+  re_sub: 1
+  re_mul: 2
+  re_div: 0.5
+-
+  a: -100
+  b: 2
+  re_add: -98
+  re_sub: -102
+  re_mul: -200
+  re_div: -50
+-
+  a: 1
+  b: 0
+  re_add: 1
+  re_sub: 1
+  re_mul: 0
+  re_div: 000
+-
+  a: 2.1
+  b: 0.3
+  re_add: 2.4
+  re_sub: 1.8
+  re_mul: 0.63
+  re_div: 7
+-
+  a: str
+  b: 1
+  re_add: 000
+  re_sub: 000
+  re_mul: 000
+  re_div: 000
+
